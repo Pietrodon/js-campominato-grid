@@ -1,0 +1,11 @@
+
+.level{
+    display: flex;
+    justify-content: center;
+    
+}
+.titolo{
+    display: flex;
+    justify-content: center;
+    color: #6a11f8;
+}
